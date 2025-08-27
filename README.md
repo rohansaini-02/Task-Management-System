@@ -244,9 +244,3 @@ This is an assignment project, but contributions are welcome:
 - Focus management
 - Screen reader compatibility
 
----
-
-**Built with ❤️ for the Tamasha internship assignment**
-
-*Ready for production deployment and professional review! 🚀*
->>>>>>> f446cec (Code of advance task management system is added)
